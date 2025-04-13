@@ -6,3 +6,5 @@ int main() {
       "to learn!\tI will succeed one day.");
   return 0;
 }
+
+/* https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-07/challenges */
