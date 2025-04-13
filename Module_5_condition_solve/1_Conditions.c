@@ -1,4 +1,4 @@
-/* #include <stdio.h>
+#include <stdio.h>
 
 int main() {
   short a, b;
@@ -10,4 +10,4 @@ int main() {
     printf("No");
   }
   return 0;
-} */
+}
