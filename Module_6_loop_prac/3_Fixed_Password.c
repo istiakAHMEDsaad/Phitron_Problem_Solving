@@ -2,7 +2,8 @@
 
 int main() {
   int x;
-  while (scanf("%d", &x)) { //EOF -> end of file
+  //EOF -> end of file
+  while (scanf("%d", &x)) { //while (scanf("%d", &x) != EOF)  for(; scanf("%d", &x); )
     if (x == 1999) {
       printf("Correct\n");
       break;
