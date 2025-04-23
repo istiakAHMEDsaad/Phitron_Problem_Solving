@@ -28,19 +28,16 @@ int main() {
     after[i] = arr[i];
   }
 
-  int b_count = 1;
-  int a_count = 1;
+  int count = 1;
   for (int i = 0; i < n; i++) {
-    if (before[i] == after[i]) {
-      b_count++;
-    }
     if (before[i] != after[i]) {
-      a_count;
+      count = 0;
+      break;
     }
   }
-  if (b_count == a_count) {
+  if(count > 0){
     printf("YES\n");
-  } else {
+  }else{
     printf("NO\n");
   }
 
