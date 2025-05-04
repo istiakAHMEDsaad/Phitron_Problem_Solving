@@ -3,10 +3,36 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [contest 2](https://codeforces.com/group/MWSDmqGsZm/contest/326175)
 
+[Module 1](https://docs.google.com/document/d/15COHBFY1vzuT_0Atlo3cCTOYP7lhwZ_lUr8xVM8AEaM/edit?tab=t.0)
+
+[Module 2](https://docs.google.com/document/d/1OWYBL7R9kVT6eCeECxLyJ1OJVQN-w48tBa3y9eyD1bM/edit?tab=t.0)
+
+[Module 3](https://docs.google.com/document/d/1o6MPFM7dQ-SHF0kCyQHHBiwSxa_l01vxKf2mfstWgus/edit?tab=t.0)
+
+[Module 3.5](https://www.hackerrank.com/contests/introduction-to-c-programming-a-module-3-5-a-practice-day-2/challenges)
+
+[Module 4 _Assignment 1_ ](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-07/challenges)
+
+[Module 5](https://docs.google.com/document/d/1T7X7Qo2VGbZF2rAZ5IHerF602wOmqdZ_PJB1s7YYLdU/edit?tab=t.0)
+
+[Module 6](https://docs.google.com/document/d/1k3-3nSz-zHxwdsa1cPcFR9KfFFJdAQIeAQfkdsVoXVI/edit?tab=t.0)
+
+[Module 6.5](https://docs.google.com/document/d/1h9lLYr11R0EarM26UxcY3eBnHrzAECmYeR7sT-brsPg/edit?tab=t.0)
+
+[Module 7](https://docs.google.com/document/d/1EIKEEL4QMuxGNYL9DeUObrCepIvbV7Ck-qjKfVHOMkc/edit?tab=t.0)
+
 [Module 7.5](https://docs.google.com/document/d/1kW5mH9h92ocVG61jZyNgzKy5Gicuio0cD1_tyb_zh88/edit?tab=t.0)
+
+[Module 8 _Assignment 2_ ](https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-07/challenges)
 
 [Module 9](https://docs.google.com/document/d/19OO0JfyCVLeJRT3IIszGUNlzBguXaWW9qE6SQsFTbF4/edit?tab=t.0)
 
 [Module 10](https://docs.google.com/document/d/1VmGUxd3sRCILjR0AHYY8SiRxDztTiTSjMtYZ7nZtxmk/edit?tab=t.0)
 
 [Module 10.5](https://docs.google.com/document/d/1BZ4EmlT9VnXCIWcsbU8wAdFk0RH2xjybs7Vzfqflggk/edit?tab=t.0#heading=h.1tiup1mwqtlu)
+
+[Module 11](https://docs.google.com/document/d/18EseP6qkjwiJy3DGXUJQwsRq1PQkXCaqFJ5kgY11fHQ/edit?tab=t.0)
+
+[Module 11.5](https://docs.google.com/document/d/1FLggcwY4YLUkk6RpOWnePSCXBq0iZZdo4tsq6eUXz5s/edit?tab=t.0)
+
+[Module 12 _Assignment 3_ ](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-07/challenges)

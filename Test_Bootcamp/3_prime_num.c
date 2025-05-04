@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
   int i, num, divisor = 0;
+  
   printf("check prime or not -> ");
   scanf("%d", &num);
   for (i = 1; i <= num; i++) {
