@@ -36,3 +36,15 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 [Module 11.5](https://docs.google.com/document/d/1FLggcwY4YLUkk6RpOWnePSCXBq0iZZdo4tsq6eUXz5s/edit?tab=t.0)
 
 [Module 12 _Assignment 3_ ](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-07/challenges)
+
+[Module 13](https://docs.google.com/document/d/1KyUB7JrpN3tinY1C1epwbG4nfK5uAuGZG_da36ksnl0/edit?tab=t.0)
+
+[Module 14](https://docs.google.com/document/d/1ezSmXcT4woRw3NeAGW04NCljZ7zwIokHVw_sgfYmJ3U/edit?tab=t.0)
+
+[Module 14.5](https://docs.google.com/document/d/1uzoOl9K0McJaxyy_o0p4la_sGCC8A-O8/edit?tab=t.0)
+
+[Module 15](https://docs.google.com/document/d/1qZpI8UZ1ddpCvHszj2uUC61rpeNTUi_ERTrhTVObNZA/edit?tab=t.0)
+
+[Module 15.5](https://docs.google.com/document/d/1xhF5KOCzEu-6HGqsW6X1BFTUpIUekQCZ/edit?tab=t.0)
+
+[Module 15 _Assignment 4_](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
