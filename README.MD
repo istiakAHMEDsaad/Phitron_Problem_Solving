@@ -47,4 +47,4 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 15.5](https://docs.google.com/document/d/1xhF5KOCzEu-6HGqsW6X1BFTUpIUekQCZ/edit?tab=t.0)
 
-[Module 15 _Assignment 4_](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
+[Module 16 _Assignment 4_](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
