@@ -54,4 +54,10 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 18](https://docs.google.com/document/d/1xvLXm5kvrnoACi9rOBUZz2eXsICC7ooEO3DOY32FPew/edit?tab=t.0)
 
+[Module 18.5]
+
+[Module 19]
+
+[Module 19.5]
+
 [_Assignment 4_](https://www.hackerrank.com/contests/final-exam-a-introduction-to-c-programming-a-batch-07/challenges)
