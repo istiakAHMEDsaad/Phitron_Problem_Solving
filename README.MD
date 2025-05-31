@@ -1,5 +1,7 @@
 Happy Problem Solving:
 
+## __-------- Semester 1 --------__
+
 Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [contest 2](https://codeforces.com/group/MWSDmqGsZm/contest/326175)
@@ -12,7 +14,7 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 3.5](https://www.hackerrank.com/contests/introduction-to-c-programming-a-module-3-5-a-practice-day-2/challenges)
 
-[Module 4 _Assignment 1_ ](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-07/challenges)
+[__Module 4 _Exam 1___](https://www.hackerrank.com/contests/assignment-01-a-introduction-to-c-programming-a-batch-07/challenges)
 
 [Module 5](https://docs.google.com/document/d/1T7X7Qo2VGbZF2rAZ5IHerF602wOmqdZ_PJB1s7YYLdU/edit?tab=t.0)
 
@@ -24,7 +26,7 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 7.5](https://docs.google.com/document/d/1kW5mH9h92ocVG61jZyNgzKy5Gicuio0cD1_tyb_zh88/edit?tab=t.0)
 
-[Module 8 _Assignment 2_ ](https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-07/challenges)
+[__Module 8 _Assignment 1___](https://www.hackerrank.com/contests/assignment-02-a-introduction-to-c-programming-a-batch-07/challenges)
 
 [Module 9](https://docs.google.com/document/d/19OO0JfyCVLeJRT3IIszGUNlzBguXaWW9qE6SQsFTbF4/edit?tab=t.0)
 
@@ -36,7 +38,7 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 11.5](https://docs.google.com/document/d/1FLggcwY4YLUkk6RpOWnePSCXBq0iZZdo4tsq6eUXz5s/edit?tab=t.0)
 
-[Module 12 _Assignment 3_ ](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-07/challenges)
+[__Module 12 _Assignment 2___](https://www.hackerrank.com/contests/mid-term-a-introduction-to-c-programming-a-batch-07/challenges)
 
 [Module 13](https://docs.google.com/document/d/1KyUB7JrpN3tinY1C1epwbG4nfK5uAuGZG_da36ksnl0/edit?tab=t.0)
 
@@ -48,16 +50,20 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 
 [Module 15.5](https://docs.google.com/document/d/1xhF5KOCzEu-6HGqsW6X1BFTUpIUekQCZ/edit?tab=t.0)
 
-[Module 16 _Assignment 4_](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
+[__Module 16 _Assignment 3___](https://www.hackerrank.com/contests/assignment-03-a-introduction-to-c-programming-a-batch-07/challenges)
 
 [Module 17](https://docs.google.com/document/d/1Tz47Ov10x7l5d7IIAs4w_fCVVPl11koa4db8FSzcngU/edit?tab=t.0)
 
 [Module 18](https://docs.google.com/document/d/1xvLXm5kvrnoACi9rOBUZz2eXsICC7ooEO3DOY32FPew/edit?tab=t.0)
 
-[Module 18.5]
+[Module 18.5](https://docs.google.com/document/d/1GbTHwVCHTTFqK-Kam9aCj-NgZN6nn9na/edit?tab=t.0)
 
-[Module 19]
+[Module 19](https://docs.google.com/document/d/1xToszvGxaImhClKvkx4vpnhfXW6icqXkVL66D3hSNA8/edit?tab=t.0)
 
-[Module 19.5]
+[Module 19.5](https://docs.google.com/document/d/1fWgdURQDzQ4XhdTn_-bktF1gXLyJAcQC/edit?tab=t.0)
 
-[_Assignment 4_](https://www.hackerrank.com/contests/final-exam-a-introduction-to-c-programming-a-batch-07/challenges)
+[__Module 20 _Assignment 4___](https://www.hackerrank.com/contests/final-exam-a-introduction-to-c-programming-a-batch-07/challenges)
+
+
+
+## __-------- Semester 2 --------__
