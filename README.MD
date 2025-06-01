@@ -67,3 +67,9 @@ Codeforces: [Sheet 1 - 10](https://codeforces.com/group/MWSDmqGsZm/contests)
 ## **-------- Semester 2 --------**
 
 [Module 2.5](https://docs.google.com/document/d/1oHwyJVnvl6wFvXi-NAKLUab_I4rzrTkw/edit?rtpof=true&sd=true&tab=t.0)
+
+[Module 3](https://docs.google.com/document/d/1oLbtTi1yfjVRUQTt-wwqSPOFuF3MDBR_bkKcDSXp2_Y/edit?tab=t.0)
+
+[Module 3.5](https://docs.google.com/document/d/1myhhYc5mXuI0G6jAMWp3yk4N0WO8aLse/edit?tab=t.0)
+
+[**Module 4 _Assignment 1_**](https://www.hackerrank.com/mid-term-a-introduction-to-c-for-dsa-a-batch-07)
