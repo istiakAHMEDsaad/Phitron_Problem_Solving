@@ -1,7 +1,7 @@
 https://cplusplus.com/reference/string/string/
 
 
-String built-in functions:
+String built-in functions: (suppose s is string)
 
 1. Capacity
     a. s.size() -> returns the size of the string.
