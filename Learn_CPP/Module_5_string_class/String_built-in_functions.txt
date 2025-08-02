@@ -1,6 +1,5 @@
 https://cplusplus.com/reference/string/string/
 
-
 String built-in functions: (suppose s is string)
 
 1. Capacity
@@ -31,5 +30,3 @@ String built-in functions: (suppose s is string)
 4. Iterators
     a. s.begin() -> pointer to the first element.
     b. s.end() -> pointer to the next element after the last element of the string.
-
-
